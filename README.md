@@ -1,2 +1,2 @@
 # Tribute-page
-Reinhard Bonnke Tribute page
+A Reinhard Bonnke Tribute page
